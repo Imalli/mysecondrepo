@@ -1,2 +1,4 @@
 this is anew file dev changes
+HEAD
 this changes from dev-2
+new line from remote -  main branch change
